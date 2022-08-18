@@ -1,0 +1,45 @@
+* body {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    margin: 0px;
+}
+
+header {
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+header img {
+    padding: 25px;
+    width: 330px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 22px;
+}
+
+footer {
+    background: #C4C4C4;
+    color: white;
+    font-weight: bold;
+    margin-top: 50px;
+    padding-bottom: 9px;
+    padding-top: 11px;
+    text-align: center
+}
+
+.fa-solid {
+    color: black;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    background: #97adb8;
+    font-size: 20px;
+    /*line-height: 84.69%; */
+}

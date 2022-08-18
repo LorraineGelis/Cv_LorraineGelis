@@ -1,0 +1,85 @@
+* body {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    margin: 0px;
+}
+
+header {
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+header img {
+    padding: 25px;
+    width: 330px;
+}
+
+.sobre_mi {
+    color: #005677;
+    text-decoration: none;
+}
+
+.sobre_mi:hover {
+    background: #C4C4C4;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 84.69%;
+}
+
+h1 {
+    background: #C4C4C4;
+    color: #005677;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 84.69%;
+}
+
+section h2 {
+    background: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 84.69%;
+}
+
+.no-estilolista li {
+    list-style-type: none;
+}
+
+li {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+ul li span {
+    font-style: italic;
+    font-weight: bold;
+}
+
+li ul {
+    margin-left: 50px;
+}
+
+footer {
+    background: #005677;
+    color: white;
+    margin-top: 50px;
+    padding-bottom: 9px;
+    padding-top: 11px;
+    text-align: center;
+}
+
+.fa-brands {
+    color: #E6E6E6
+}
+
+footer span {
+    font-family: Times New Roman;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+footer a {
+    margin-left: 8px;
+}
